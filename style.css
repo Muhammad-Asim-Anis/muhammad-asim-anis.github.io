@@ -1,0 +1,28 @@
+html
+{
+    scroll-behavior: smooth;
+}
+.navbar-tag {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-tag ul {
+    display: flex;
+    list-style: none;
+    margin: 0px;
+}
+
+.navbar-tag ul li {
+    padding: 16px;
+}
+
+.navbar-tag ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.resume {
+    border-radius: 12%;
+}
+.hover-card :hover{background-color: gray;color: white; }
